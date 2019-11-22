@@ -6,15 +6,17 @@ from tkinter import *
 
 colourSet = []
 
-for r in range(0, 31, 4): # creating dataset with MinMaxNormalized values
-    for g in range(0, 31, 4):
-        for b in range(0, 31, 4):
-            colourSet.append((r/256, g/256, b/256))
+for rgb in range(0, 40, 2):
+    colourSet.append((rgb / 256, rgb / 256, rgb / 256))
 
 for r in range(45, 256, 15):
-    for g in range(49, 256, 19):
-        for b in range(54, 256, 23):
+    for g in range(55, 256, 25):
+        for b in range(58, 256, 28):
             colourSet.append((r/256, g/256, b/256))
+
+for rgb in range(216, 256, 2):
+    colourSet.append((rgb / 256, rgb / 256, rgb / 256))
+
 
 
 def square_array(array):
