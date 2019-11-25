@@ -23,7 +23,7 @@ formal logic definition)* **to describe colors evolved, as languages become more
 prove the concept of Linguistics Relativity - *or eliminate it.*
 
 2. As many natural processes, linguistics' ones could not be performed in an experimental way - the possibly 
-ten-thousand-years-lasting unrepeatable due to obvious reasons, - so the only way to study them is by studying their models.
+ten-thousand-years-lasting processes unrepeatable due to obvious reasons, - so the only way to study them is by studying their models.
 
 3. This is an interesting case of connecting fields of science that seems to be unrelated - linguistics,
 biology, and data science.
