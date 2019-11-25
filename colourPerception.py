@@ -1,20 +1,8 @@
+import csv
 import scipy.cluster.hierarchy as shc
 import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
 from tkinter import *
-
-colourSet = []
-
-for rgb in range(0, 40, 2):
-    colourSet.append((rgb / 256, rgb / 256, rgb / 256))
-
-for r in range(45, 256, 15):
-    for g in range(55, 256, 25):
-        for b in range(58, 256, 28):
-            colourSet.append((r / 256, g / 256, b / 256))
-
-for rgb in range(216, 256, 2):
-    colourSet.append((rgb / 256, rgb / 256, rgb / 256))
 
 
 def dendrogram():
@@ -57,3 +45,9 @@ def show_colours(number):
         startHeightIndent += height
 
     root.mainloop()
+
+
+colourSet = []
+reader = csv.reader(open("colorSet.csv", "r", newline=""), delimiter=' ', quotechar='"', quoting=csv.QUOTE_NONNUMERIC)
+for row in reader:
+    colourSet.append(row)
