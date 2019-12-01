@@ -8,25 +8,17 @@ Computer simulating of color perception's evolution in linguistics.
 
 ### What?
 
-I'm asking myself this question for all the time I was doing this project, mostly because there have been no 
-clear and strict formulating not even of its purposes - but its actual meaning without all those cranky "ummmmm" and
-"well, its kinda serious problem".
+I've been asking myself this question for all the time I've been doing this project, mostly because there has been no clear and strict formulating not only of its purposes - but of its actual meaning without all those cranky "ummmmm" and "well, its kinda serious problem".
 
 But back to the question.
 
-As any single word in any language - whether it's Spanish, Sanskrit or Mandarin - **the terms** *(in linguistics and
-formal logic definition)* **to describe colors evolved, as languages became more complex and developed.** 
+As any single word in any language - whether it's Spanish, Sanskrit or Mandarin - **the terms** *(in linguistics and formal logic definition)* **to describe colors evolved, as languages became more complex and developed.** 
 
 ### Why?
 
-1. It's a complicated question in linguistics and cognitive linguistics and psycholinguistics, that is a possible key to
-prove the concept of Linguistics Relativity - *or eliminate it.*
-
-2. As many natural processes, linguistics' ones could not be performed in an experimental way - the possibly 
-ten-thousand-years-lasting processes unrepeatable due to obvious reasons, - so the only way to study them is by studying their models.
-
+1. It's a complicated question in linguistics and cognitive linguistics and psycholinguistics, that is a possible key to prove the concept of Linguistics Relativity - *or eliminate it.*
+2. As many natural processes, linguistics' ones could not be performed in an experimental way - the possibly ten-thousand-years-lasting processes unrepeatable due to obvious reasons, - so the only way to study them is by studying their models.
 3. This is an interesting case of connecting fields of science that seem to be unrelated - linguistics, biology, and data science.
-
 4. And its ambitious, hilarious and complex project - why not implement it?
 
 ### How?
