@@ -15,7 +15,7 @@ clear and strict formulating not even of its purposes - but its actual meaning w
 But back to the question.
 
 As any single word in any language - whether it's Spanish, Sanskrit or Mandarin - **the terms** *(in linguistics and
-formal logic definition)* **to describe colors evolved, as languages become more complex and developed.** 
+formal logic definition)* **to describe colors evolved, as languages became more complex and developed.** 
 
 ### Why?
 
@@ -25,10 +25,9 @@ prove the concept of Linguistics Relativity - *or eliminate it.*
 2. As many natural processes, linguistics' ones could not be performed in an experimental way - the possibly 
 ten-thousand-years-lasting processes unrepeatable due to obvious reasons, - so the only way to study them is by studying their models.
 
-3. This is an interesting case of connecting fields of science that seems to be unrelated - linguistics,
-biology, and data science.
+3. This is an interesting case of connecting fields of science that seem to be unrelated - linguistics, biology, and data science.
 
-4. And its ambitious, hilarious and complex project - why not to implement it?
+4. And its ambitious, hilarious and complex project - why not implement it?
 
 ### How?
 
