@@ -1,4 +1,4 @@
-ΟĨΝΟΨ ΠΌΝΤΟΣ
+ΟĨΝΟΨ ΠÓΝΤΟΣ
 ====================================================================
 
 *or, actually*
@@ -39,13 +39,14 @@ biology, and data science.
 ### Aim?
 
 Reproduce the sequence of basic color acquiring by Berlin and Kay:
-1. Dark-cool and light-warm *(this covers a larger set of colors than English "black" and "white".)*
-2. Red
-3. Either green or yellow
-4. Both green and yellow
-5. Blue
-6. Brown
-7. Purple, pink, orange, or gray
+
+>1. Dark-cool and light-warm *(this covers a larger set of colors than English "black" and "white".)*
+>2. Red
+>3. Either green or yellow
+>4. Both green and yellow
+>5. Blue
+>6. Brown
+>7. Purple, pink, orange, or gray
 
 ### Results?
 
