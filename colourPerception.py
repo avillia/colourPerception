@@ -1,10 +1,11 @@
-from tkinter import Tk, Canvas
+from tkinter import Canvas, Tk
 
 from matplotlib import pyplot
 from scipy.cluster import hierarchy
 from sklearn.cluster import AgglomerativeClustering
 
 from readers import ColourList, read_dataset
+
 
 def dendrogram(colours: ColourList):
     pyplot.figure(figsize=(12, 12))

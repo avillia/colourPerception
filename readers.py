@@ -1,8 +1,9 @@
-from csv import reader as csv_reader, QUOTE_NONNUMERIC
-from os import path, listdir
+from csv import QUOTE_NONNUMERIC
+from csv import reader as csv_reader
+from os import listdir, path
 
-from PIL import Image as pil_module
 from numpy import array
+from PIL import Image as pil_module
 
 ColourList = list[list]
 
